@@ -1,4 +1,4 @@
-# oie! Eu sou a Michele França🥰
+# Oie! Eu sou a Michele França🥰
 📚 Estudante de Front-end  pelo StartLatam (Recife)
   <div>
   <a href="https://github.com/miihfranca">
